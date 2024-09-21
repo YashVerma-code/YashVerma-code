@@ -1,22 +1,22 @@
-# Hii 👋, I'm Yash  
+# Hii 👋, I'm Yash Verma
 A sophomore at IIITN
 
 ---
 
 **Ask me about**  
-C++, Python, HTML, CSS, JavaScript
+C++, Python, HTML, CSS, JavaScript ,MERN Stack ,NextJs
 
 **How to reach me**  
-yash123@gmail.com
+yashverma221004@gmail.com
 
 ---
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yash-verma/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://www.instagram.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://www.instagram.com/y_a_s_h__v_e_r_m_a_)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/YashVerma-code)
 
 ---
 
