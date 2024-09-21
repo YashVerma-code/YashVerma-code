@@ -45,7 +45,7 @@ Welcome to my GitHub space! I'm a passionate developer diving deep into the **ME
 
 ## 🚀 Get in Touch:
 Connect with me on the platforms where I'm most active!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yash-verma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=whiten)](https://www.linkedin.com/in/yash-verma/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://www.instagram.com/y_a_s_h__v_e_r_m_a_)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/YashVerma-code)
