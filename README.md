@@ -49,6 +49,7 @@ Connect with me on the platforms where I'm most active!
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://www.instagram.com/y_a_s_h__v_e_r_m_a_)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/YashVerma-code)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yash7265)
 
 ---
 
