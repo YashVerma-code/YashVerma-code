@@ -2,10 +2,9 @@
 
 ---
 
-<div align="center">
-   Hii 👋, I'm Yash Verma 
-</div>
-### 🚀 A Sophomore at IIIT Nagpur (CSE) | Passionate MERN Stack Developer | AI ML Enthusiast
+ <h1 style="font-size: 48px;">Hi 👋, I'm Yash Verma</h1>
+
+  <h3 style="font-size: 24px;">🚀 A Sophomore at IIIT Nagpur (CSE) | Web Developer | AI ML Enthusiast</h3>
 
 Welcome to my GitHub space! I'm a passionate developer diving deep into the **MERN stack**, exploring **Next.js**, and constantly striving to learn and grow.
 
