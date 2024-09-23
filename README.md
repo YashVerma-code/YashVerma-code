@@ -2,9 +2,8 @@
 
 ---
 
-<div align="center">
+
 # Hii 👋, I'm Yash Verma 
-</div>
 
 ### 🚀 A Sophomore at IIIT Nagpur (CSE) | Web Developer | AI ML Enthusiast
 
