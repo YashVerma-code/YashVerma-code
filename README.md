@@ -5,9 +5,9 @@
 
 # Hii 👋, I'm Yash Verma 
 
-### 🚀 A Sophomore at IIIT Nagpur (CSE) | Web Developer | AI ML Enthusiast
+### 🚀 A Sophomore at IIIT Nagpur (CSE) | Passionate MERN Stack Developer | AI ML Enthusiast
 
-Welcome to my GitHub space! I'm a passionate developer diving deep into the **MERN stack**, exploring **Next.js**, and constantly striving to learn and grow.
+####Welcome to my GitHub space! I'm a passionate developer diving deep into the **MERN stack**, exploring **Next.js**, and constantly striving to learn and grow.
 
 ---
 
