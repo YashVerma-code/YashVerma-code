@@ -1,5 +1,7 @@
 # Hii 👋, I'm Yash Verma 
 ### 🚀 A Sophomore at IIIT Nagpur (CSE) | Web Developer | AI ML Enthusiast
+![Your Video as GIF]([https://your-gif-url.com/your-gif.gif](https://camo.githubusercontent.com/a703826ac1cc9d7dab23b2ce3ca5956f59ec8d27bc90510d6e3869d6e2b0848b/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f333834302f3634316332623137303436363937372e363435653334613737363062662e676966))
+
 
 Welcome to my GitHub space! I'm a passionate developer diving deep into the **MERN stack**, exploring **Next.js**, and constantly striving to learn and grow.
 
