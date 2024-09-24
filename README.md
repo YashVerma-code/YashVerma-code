@@ -50,10 +50,10 @@ Welcome to my GitHub space! I'm a passionate developer diving deep into the **ME
 
 ## 🚀 Get in Touch:
 Connect with me on the platforms where I'm most active!  
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yash-verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-verma/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/y_a_s_h__v_e_r_m_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/y_a_s_h__v_e_r_m_a_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yash7265" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yash7265" height="30" width="40" style="color:white"/></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yash7265" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yash7265" height="30" width="40" /></a>
 
 
 ---
