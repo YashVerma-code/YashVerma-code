@@ -4,7 +4,7 @@
 
  <h1 style="font-size: 48px;" align="center">Hi 👋, I'm Yash Verma</h1>
 
-  <h3 style="font-size: 24px;" align="center">🚀 A Sophomore at IIIT Nagpur (CSE) | Web Developer | AI ML Enthusiast</h3>
+  <h3 style="font-size: 24px;" align="center">🚀 A Sophomore at IIIT Nagpur (CSE) |Full Stack Web Developer </h3>
 
 Welcome to my GitHub space! I'm a passionate developer diving deep into the **MERN stack**, exploring **Next.js**, and constantly striving to learn and grow.
 
