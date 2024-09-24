@@ -60,6 +60,7 @@ Connect with me on the platforms where I'm most active!
 
 ## ☕ Support My Work:
 Love my work? You can **buy me a coffee** to keep me fueled on caffeine for more coding sessions!  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourprofile)
+
+<a href="https://www.buymeacoffee.com/yourprofile"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/chikuu" /></a>
 
 ---
