@@ -39,16 +39,11 @@ Welcome to my GitHub space! I'm a passionate developer diving deep into the **ME
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YashVerma-code&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
 
-## 📈 GitHub Stats:
+### 🔥 Streak Stats:
 ![Yash's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=YashVerma-code&theme=midnight-purple&hide_border=false)<br/>
 
-### 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=YashVerma-code&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ## 🎯 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashVerma-code&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=YashVerma-code&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
