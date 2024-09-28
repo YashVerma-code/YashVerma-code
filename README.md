@@ -53,7 +53,7 @@ Connect with me on the platforms where I'm most active!
 <a href="https://www.linkedin.com/in/yash-verma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-verma/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/y_a_s_h__v_e_r_m_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/y_a_s_h__v_e_r_m_a_" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yash7265" target="blank" style={background-color:white}}><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yash7265" style={background-color:white} height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yash7265" target="blank"><img align="center" src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="https://www.codechef.com/users/yash7265"  height="30" width="40" /></a>
 
 
 ---
