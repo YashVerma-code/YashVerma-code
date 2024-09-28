@@ -35,6 +35,12 @@ Welcome to my GitHub space! I'm a passionate developer diving deep into the **ME
 
 ---
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YashVerma-code&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YashVerma-code&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashVerma-code&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ## 📈 GitHub Stats:
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashVerma-code&show_icons=true&theme=radical)
 
@@ -62,3 +68,6 @@ Connect with me on the platforms where I'm most active!
 Love my work? You can **buy me a coffee** to keep me fueled on caffeine for more coding sessions!  
 
 <a href="https://www.buymeacoffee.com/yourprofile"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/chikuu" /></a>
+
+
+
