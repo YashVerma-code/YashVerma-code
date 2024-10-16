@@ -3,6 +3,7 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&font=Verdana&size=40&lines=Hello+there,+I'm+Yash+Verma;Welcome+to+my+GitHub+profile!;Explore+my+projects+and+work)](https://git.io/typing-svg)
 
+---
 
   <h3 style="font-size: 24px;" align="center">🚀 A Sophomore at IIIT Nagpur (CSE) |Full Stack Web Developer </h3>
 
