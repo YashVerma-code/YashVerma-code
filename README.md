@@ -2,7 +2,7 @@
 
 ---
 
- <h1 style="font-size: 48px;" align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+,+Yash+Verma+this+side;Welcome+to+my+github+profile;Hope+you+will+find+it+amazing)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+,+Yash+Verma+this+side;Welcome+to+my+github+profile;Hope+you+will+find+it+amazing)](https://git.io/typing-svg)
 
   <h3 style="font-size: 24px;" align="center">🚀 A Sophomore at IIIT Nagpur (CSE) |Full Stack Web Developer </h3>
 
