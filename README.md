@@ -5,7 +5,7 @@
 
 ---
 
-  <h3 style="font-size: 24px;" align="center">🚀 A Prefinal-year B.Tech student (CSE) at IIIT Nagpur |Full Stack Web Developer </h3>
+  <h3 style="font-size: 24px;" align="center">🚀 A Prefinal-year B.Tech student (CSE) at IIIT Nagpur |Full Stack Developer </h3>
 
 Welcome to my GitHub space! I'm a passionate developer diving deep into the **MERN stack**, exploring **Next.js**, and constantly striving to learn and grow.
 
